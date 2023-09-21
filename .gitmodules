@@ -1,0 +1,3 @@
+[submodule "client/consensus/Frost-secp256Projective"]
+	path = client/consensus/Frost-secp256Projective
+	url = https://github.com/NoorahSmith/Frost-secp256Projective.git
