@@ -76,7 +76,7 @@ members = [
 	"client/consensus/manual-seal",
 	"client/consensus/pow",
 	"client/consensus/slots",
-	"client/consensus/Frost-secp256Projective",
+	"client/consensus/Frost-projective",
 	"client/db",
 	"client/executor",
 	"client/executor/common",

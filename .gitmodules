@@ -1,3 +1,6 @@
 [submodule "client/consensus/Frost-secp256Projective"]
 	path = client/consensus/Frost-secp256Projective
 	url = https://github.com/NoorahSmith/Frost-secp256Projective.git
+[submodule "client/consensus/Frost-projective"]
+	path = client/consensus/Frost-projective
+	url = https://github.com/NoorahSmith/Frost-projective/
